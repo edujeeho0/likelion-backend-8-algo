@@ -19,7 +19,13 @@ public class Solution181932 {
                 if (mode == 0) mode = 1;
                 else mode = 0;
             }*/
+                // mode가 '1'이면 '1' - '1'은 0, i는 짝수
+                // mode가 '0'이면 '1' - '0'은 1, i는 홀수
+            else if (i % 2 == '1' - mode) {
+                answerBuilder.append(letter);
+            }
             // 현재 문자가 1이 아니면
+            /*
             else {
                 // 모드가 1이고, i가 홀수이면 answerBuilder에 추가
                 if (mode == '1' && i % 2 == 1)
@@ -28,6 +34,7 @@ public class Solution181932 {
                 if (mode == '0' && i % 2 == 0)
                     answerBuilder.append(letter);
             }
+             */
         }
 
         // 결과 수합

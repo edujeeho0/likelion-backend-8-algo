@@ -10,11 +10,11 @@
 
 ## 난이도 중
 
-- 수열과 구간 쿼리
+- [수열과 구간 쿼리 1](../programmers/Solution181883.java)
 - [코드 처리하기](../programmers/Solution181932.java)
-- 배열 조각하기
+- [배열 조각하기](../programmers/Solution181893.java)
 
 ## 난이도 상
 
-- 공원 산책
-- 바탕화면 정리
+- [공원 산책](../programmers/Solution172928.java)
+- [바탕화면 정리](../programmers/Solution161990.java)
