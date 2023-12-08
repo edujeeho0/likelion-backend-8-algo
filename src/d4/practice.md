@@ -3,8 +3,8 @@
 ## 난이도 하
 
 - [문자열 뒤의 n글자](../programmers/Solution181910.java)
-- [qr code](../programmers/Solution181903.java) https://school.programmers.co.kr/learn/courses/30/lessons/181903
-- [수 조작하기 2](../programmers/Solution181925.java) https://school.programmers.co.kr/learn/courses/30/lessons/181925
+- [qr code](../programmers/Solution181903.java)
+- [수 조작하기 2](../programmers/Solution181925.java)
 - [카운트 업](../programmers/Solution181920.java)
 - [글자 이어붙여 문자열 만들기](../programmers/Solution181915.java)
 
